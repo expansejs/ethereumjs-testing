@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-const ethUtil = require('ethereumjs-util')
+const ethUtil = require('expansejs-util')
 const BN = ethUtil.BN
 
 const paths = [
